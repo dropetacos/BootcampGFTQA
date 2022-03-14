@@ -1,5 +1,5 @@
 # BootcampGFTQA
-Exercicios do Bootcampa da GFT Quality Assurance da DIO
+Exercicios do Bootcamp da GFT Quality Assurance da DIO
 
 Exercícios Práticos Aula 01
 01. Calculadora
